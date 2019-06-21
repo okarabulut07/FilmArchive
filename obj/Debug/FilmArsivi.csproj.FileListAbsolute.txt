@@ -1,0 +1,10 @@
+C:\Users\onurk\source\repos\FilmArsivi\FilmArsivi\bin\Debug\FilmArsivi.exe.config
+C:\Users\onurk\source\repos\FilmArsivi\FilmArsivi\bin\Debug\FilmArsivi.exe
+C:\Users\onurk\source\repos\FilmArsivi\FilmArsivi\bin\Debug\FilmArsivi.pdb
+C:\Users\onurk\source\repos\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.csprojAssemblyReference.cache
+C:\Users\onurk\source\repos\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.Form1.resources
+C:\Users\onurk\source\repos\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.Properties.Resources.resources
+C:\Users\onurk\source\repos\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.csproj.GenerateResource.cache
+C:\Users\onurk\source\repos\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.csproj.CoreCompileInputs.cache
+C:\Users\onurk\source\repos\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.exe
+C:\Users\onurk\source\repos\FilmArsivi\FilmArsivi\obj\Debug\FilmArsivi.pdb
